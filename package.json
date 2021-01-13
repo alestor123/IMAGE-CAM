@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alestor123/IMAGE-CAM/issues"
   },
-  "homepage": "https://github.com/alestor123/IMAGE-CAM#readme"
+  "homepage": "https://github.com/alestor123/IMAGE-CAM#readme",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "pify": "^5.0.0"
+  }
 }
